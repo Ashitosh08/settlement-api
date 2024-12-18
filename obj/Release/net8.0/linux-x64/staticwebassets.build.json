@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1+wijMwPF3eBMW6rzbxFbVRmvgaoZVh5NJWAdwyFr64=",
+  "Source": "settlement-api",
+  "BasePath": "_content/settlement-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
